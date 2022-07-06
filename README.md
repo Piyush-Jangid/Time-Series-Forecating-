@@ -1,1 +1,1 @@
-# Time-Series-Forecating-
+# Time-Series-Forecasting-
